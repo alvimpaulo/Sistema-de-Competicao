@@ -1,0 +1,29 @@
+12 – Sistema de Competição. Em uma olimpíada, cada país envia delegações
+compostas por atletas e treinadores. Cada membro de uma delegação representa um
+país, possui um passaporte (número único), além de dados como nome, data de
+nascimento, filiação, sexo, altura, peso, telefone e endereço. No caso dos atletas, estes
+possuem ainda um número (único) de licença emitido por suas respectivas federações
+esportivas. Os treinadores são caracterizados pelo nome da confederação esportiva do
+país que os nomeou como treinador, bem como a data da nomeação, nome, endereço,
+telefone, trabalhos anteriores, etc.
+Existem modalidades esportivas nas quais os atletas concorrem (exemplo: vôlei, 100 m
+rasos), cada uma caracterizada pelo nome (único) da modalidade, e o ano na qual a
+modalidade foi incluída pela primeira vez na olimpíada. Existem dois tipos de modalidade,
+a saber, individual e coletiva. Na primeira, participam atletas individuais (exemplo: 100 m
+rasos). Nas modalidades coletivas (exemplo: vôlei), participam equipes, as quais são
+compostas de no mínimo dois atletas. Cada atleta/equipe, ao participar em uma
+modalidade, assume uma posição (exemplo: primeiro, segundo, décimo, etc). (Por
+questões de simplificação, não será considerada a divisão de uma modalidade em provas,
+só a classificação final de um atleta/equipe na modalidade). Em cada modalidade
+competem pelo menos 3 atletas/equipes. Toda equipe enviada pela delegação participa
+de uma modalidade coletiva. Um mesmo atleta pode participar de várias modalidades
+individuais diferentes, mas cada equipe participa em no máximo uma modalidade coletiva.
+Um mesmo atleta pode participar de diferentes equipes, ou mesmo não participar de 
+nenhuma equipe. Todo atleta/equipe possui um treinador. Um treinador não pode treinar
+mais de uma equipe, embora possa treinar vários atletas.
+Em termos de consultas e relatórios, o sistema deverá contemplar:
+Relação das equipes;
+Relação das modalidades;
+Imprimir lista de treinadores por equipe;
+Imprimir lista de desempenho individual do atleta;
+Imprimir desempenho das equipes na competição.
